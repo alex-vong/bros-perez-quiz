@@ -67,6 +67,7 @@ form {
 	display: flex;
 	flex-direction: column;
 	gap:  30px;
+	position: relative;
 }
 
 
@@ -80,6 +81,21 @@ form {
 	margin-bottom: 10px;
 }
 
+.input-btn {
+	padding: 20px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	gap:  15px;
+
+	position: sticky;
+	bottom: 0;
+	left: 0;
+
+	background-color: var(--white);
+
+}
+
 input[type="submit"], .modal button {
 	background-color: var(--button);
     color: var(--text);
@@ -87,12 +103,19 @@ input[type="submit"], .modal button {
     font-weight: 900;
     align-self: center;
     padding: 15px 30px;
-    -webkit-appearance: textfield;
-    -webkit-appearance:  none;
     cursor:  pointer;
     -webkit-border-fit:  border;
+    border: none;
 }
 
+/*input[type="submit"] {
+	position: sticky;
+	bottom: 0;
+	left: 0;
+
+
+}
+*/
 .pass, .fail {
 	display: flex;
 	flex-direction: column;
@@ -111,6 +134,8 @@ input[type="submit"], .modal button {
 	padding: 15px 20px;
 	margin-top: 15px;
 	border: none;
+
+
 }
 
 

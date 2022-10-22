@@ -4,15 +4,15 @@
 		<title>Perez Bros Quiz</title>
 		<meta
 			name="og:description"
-			content="See How Good of an Uncle or Aunt You Are!"
+			content="See How Well You Know Your Nephews!"
 		/>
 	
 		<meta property="og:title" content="The Ultimate Nephew Quiz" />
 		<meta property="og:type" content="">
 		<meta property="og:url" content="">
 
-		<meta property="og:image" content="https://alexvong.dev/images/bros-meta.png"  />
-		<meta property="og:image:type" content="https://alexvong.dev/images/bros-meta.png" />
+		<meta property="og:image" content="https://alexvong.dev/images/bros.png"  />
+		<meta property="og:image:type" content="https://alexvong.dev/images/bros.png" />
 		<link rel="shortcut icon" type="image/png" href=[[]] />
 
 		<link rel='stylesheet' href='css/style.css'>

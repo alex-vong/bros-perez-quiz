@@ -104,6 +104,8 @@ input[type="submit"], .modal button {
     align-self: center;
     padding: 15px 30px;
     cursor:  pointer;
+    -webkit-appearance:  textfield;
+    -webkit-appearance:  none;
     -webkit-border-fit:  border;
     border: none;
 }

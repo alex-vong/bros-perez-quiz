@@ -9,7 +9,7 @@
 			'A' => 'September 6th, 2016',
 			'B' => 'September 8th, 2016', 
 			'C' => 'September 4th, 2016', 
-			'D' => 'September 2th, 2018', 
+			'D' => 'September 2nd, 2018', 
 		],
 		[
 			'questionNumber' => 'q2',
@@ -17,7 +17,7 @@
 			'A' => 'September 29th, 2018',
 			'B' => 'September 26th, 2018', 
 			'C' => 'September 24th, 2016', 
-			'D' => 'September 22th, 2018', 
+			'D' => 'September 22nd, 2018', 
 		],
 		[
 			'questionNumber' => 'q3',

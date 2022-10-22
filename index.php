@@ -112,8 +112,10 @@
 					</div>
 
 					<?php } ?>
-					<p class="error">Please Answer All the Questions</p>
-					<input type="submit" value="Submit" class="submit">
+					<div class="input-btn">
+						<p class="error">Please Answer All the Questions</p>
+						<input type="submit" value="Submit" class="submit">
+					</div>
 			</inner-column>
 		</form>
 

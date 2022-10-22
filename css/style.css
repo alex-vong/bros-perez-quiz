@@ -88,6 +88,9 @@ input[type="submit"], .modal button {
     align-self: center;
     padding: 15px 30px;
     -webkit-appearance: textfield;
+    -webkit-appearance:  none;
+    cursor:  pointer;
+    -webkit-border-fit:  border;
 }
 
 .pass, .fail {
